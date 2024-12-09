@@ -1,6 +1,6 @@
 # ⚙️ Twitter X-Client-Transaction-Id Header Reverse ⚙️
 
-### No DOM
+### Not DOM
 
 ### 📑 Contacts 📑
 
