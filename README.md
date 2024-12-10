@@ -6,6 +6,7 @@
 
 ### Telegram: https://t.me/eternalbladez
 
-![image](https://github.com/user-attachments/assets/d0d3f342-a102-4ea7-a89b-c7928353bc91)
+![image](https://github.com/user-attachments/assets/e41c835d-68bf-4020-b246-108ed420d46d)
+
 
 
