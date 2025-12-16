@@ -23,4 +23,3 @@ console.log(transaction_id);
 ## Dependencies
 
 - cheerio
-- express
